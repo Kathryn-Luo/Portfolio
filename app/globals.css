@@ -39,6 +39,11 @@
   --text-display--line-height: 1.28;
   --text-display--font-weight: 900;
   --text-display--letter-spacing: -0.01em;
+
+  --text-title: clamp(26px, 3vw, 34px);
+  --text-title--line-height: 1.28;
+  --text-title--font-weight: 900;
+  --text-title--letter-spacing: -0.01em;
 }
 
 :root {
